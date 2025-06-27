@@ -4,6 +4,8 @@ Soy un **estudiante de ingenieria de software** apasionado por el desarrollo web
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
+
+
 ## 🚀 Tecnologías y herramientas
 - 🧠 Inteligencia Artificial: Python, YOLOv8, OpenCV
 - 🌐 Frontend: React, Material UI, Tailwind, HTML, CSS, JavaScript
