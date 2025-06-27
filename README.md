@@ -12,7 +12,7 @@ Soy un **estudiante de ingenieria de software** apasionado por el desarrollo web
 - 💡 Otros: Git, GitHub, Visual Studio Code
 
 ## 📚 Actualmente aprendiendo
-- 🧾 Mejores prácticas con TypeScript y React
+- 🧾 Mejores prácticas con TypeScript y React; fundamentos de backend con NodeJs
 - 🧠 Modelos de visión computacional aplicados a agricultura
 
 ## 🧩 Proyectos destacados
