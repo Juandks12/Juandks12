@@ -32,7 +32,7 @@ Soy un **estudiante de ingenieria de software** apasionado por el desarrollo web
 </a>
 </p>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 Gracias por visitar mi perfil 🚀 ¡Estoy abierto a colaborar en proyectos interesantes!
 
 ---
