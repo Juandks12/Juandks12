@@ -2,13 +2,14 @@
 
 Soy un **estudiante de ingenieria de software** apasionado por el desarrollo web, la inteligencia artificial y los proyectos con impacto real. Actualmente estoy trabajando en proyectos como **PhoenixTech**, un eCommerce de tecnología desarrollado con **React** y **Node.js**, y colaboro en iniciativas de estudio **visión por computadora aplicada a cultivos hidropónicos** 🥬.
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 ## 🚀 Tecnologías y herramientas
 - 🧠 Inteligencia Artificial: Python, YOLOv8, OpenCV
 - 🌐 Frontend: React, Material UI, Tailwind, HTML, CSS, JavaScript
 - 🛠️ Backend: Node.js, Spring Boot (Java)
 - 🗄️ Bases de datos: MySQL, MongoDB
 - 💡 Otros: Git, GitHub, Visual Studio Code
-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ## 📚 Actualmente aprendiendo
 - 🧾 Mejores prácticas con TypeScript y React
@@ -22,7 +23,7 @@ Soy un **estudiante de ingenieria de software** apasionado por el desarrollo web
 - 📫 Correo: juandk1016@hotmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/juan-david-pe%C3%B1a-rold%C3%A1n-92b2961b5/)
 
-  ### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/Juandks12">
@@ -31,7 +32,7 @@ Soy un **estudiante de ingenieria de software** apasionado por el desarrollo web
 </a>
 </p>
 
-
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 Gracias por visitar mi perfil 🚀 ¡Estoy abierto a colaborar en proyectos interesantes!
 
 ---
