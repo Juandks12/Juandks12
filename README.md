@@ -16,7 +16,7 @@ Soy un **estudiante de ingenieria de software** apasionado por el desarrollo web
 
 ## 🧩 Proyectos destacados
 - 🔧 [PhoenixTech](https://github.com/tu_usuario/phoenixtech) — eCommerce (EN DESARROLLO) completo con autenticación, carrito, panel de admin.
-- 🧠 [Clasificación de lechugas](https://github.com/tu_usuario/lettuce-classifier) — modelo con YOLOv8 para detectar lechugas sanas y podridas.
+- 🧠 [Clasificación de lechugas](https://github.com/Juandks12/Lettuce_Classification.git) — modelo con YOLOv8 para detectar lechugas sanas y podridas.
 
 ## 🤝 Conectemos
 - 📫 Correo: juandk1016@hotmail.com
