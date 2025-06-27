@@ -12,7 +12,6 @@ Soy un **estudiante de ingenieria de software** apasionado por el desarrollo web
 ## 📚 Actualmente aprendiendo
 - 🧾 Mejores prácticas con TypeScript y React
 - 🧠 Modelos de visión computacional aplicados a agricultura
-- 🧪 Testing con Jest y herramientas modernas
 
 ## 🧩 Proyectos destacados
 - 🔧 [PhoenixTech](https://github.com/Juandks12/PhoenixTech2.git) — eCommerce (EN DESARROLLO) completo con autenticación, carrito, panel de admin.
