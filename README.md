@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Juan Peña
 
-Soy un **ingeniero de software** apasionado por el desarrollo web, la inteligencia artificial y los proyectos con impacto real. Actualmente estoy trabajando en proyectos como **PhoenixTech**, un eCommerce de tecnología desarrollado con **React** y **Node.js**, y colaboro en iniciativas de **visión por computadora aplicada a cultivos hidropónicos** 🥬.
+Soy un **estudiante de ingenieria de software** apasionado por el desarrollo web, la inteligencia artificial y los proyectos con impacto real. Actualmente estoy trabajando en proyectos como **PhoenixTech**, un eCommerce de tecnología desarrollado con **React** y **Node.js**, y colaboro en iniciativas de estudio **visión por computadora aplicada a cultivos hidropónicos** 🥬.
 
 ## 🚀 Tecnologías y herramientas
 - 🧠 Inteligencia Artificial: Python, YOLOv8, OpenCV
