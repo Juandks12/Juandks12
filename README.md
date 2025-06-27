@@ -15,7 +15,7 @@ Soy un **estudiante de ingenieria de software** apasionado por el desarrollo web
 - 🧪 Testing con Jest y herramientas modernas
 
 ## 🧩 Proyectos destacados
-- 🔧 [PhoenixTech](https://github.com/tu_usuario/phoenixtech) — eCommerce (EN DESARROLLO) completo con autenticación, carrito, panel de admin.
+- 🔧 [PhoenixTech](https://github.com/Juandks12/PhoenixTech2.git) — eCommerce (EN DESARROLLO) completo con autenticación, carrito, panel de admin.
 - 🧠 [Clasificación de lechugas](https://github.com/Juandks12/Lettuce_Classification.git) — modelo con YOLOv8 para detectar lechugas sanas y podridas.
 
 ## 🤝 Conectemos
