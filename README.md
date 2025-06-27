@@ -8,6 +8,7 @@ Soy un **estudiante de ingenieria de software** apasionado por el desarrollo web
 - 🧠 Inteligencia Artificial: Python, YOLOv8, OpenCV
 - 🌐 Frontend: React, Material UI, Tailwind, HTML, CSS, JavaScript
 - 🛠️ Backend: Node.js, Spring Boot (Java)
+- 🧮 Lenguajes de programación: Python, C++, Java, JavaScript
 - 🗄️ Bases de datos: MySQL, MongoDB
 - 💡 Otros: Git, GitHub, Visual Studio Code
 
