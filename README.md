@@ -5,7 +5,7 @@ Soy un **estudiante de ingenieria de software** apasionado por el desarrollo web
 ## 🚀 Tecnologías y herramientas
 - 🧠 Inteligencia Artificial: Python, YOLOv8, OpenCV
 - 🌐 Frontend: React, Material UI, Tailwind, HTML, CSS, JavaScript
-- 🛠️ Backend: Node.js, Express, Spring Boot (Java)
+- 🛠️ Backend: Node.js, Spring Boot (Java)
 - 🗄️ Bases de datos: MySQL, MongoDB
 - 💡 Otros: Git, GitHub, Visual Studio Code
 
@@ -19,9 +19,8 @@ Soy un **estudiante de ingenieria de software** apasionado por el desarrollo web
 - 🧠 [Clasificación de lechugas](https://github.com/tu_usuario/lettuce-classifier) — modelo con YOLOv8 para detectar lechugas sanas y podridas.
 
 ## 🤝 Conectemos
-- 📫 Correo: juan.pena@email.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)
-- 🌐 [Portafolio web](https://tu-portafolio.com) *(si tienes uno)*
+- 📫 Correo: juandk1016@hotmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/juan-david-pe%C3%B1a-rold%C3%A1n-92b2961b5/)
 
 Gracias por visitar mi perfil 🚀 ¡Estoy abierto a colaborar en proyectos interesantes!
 
