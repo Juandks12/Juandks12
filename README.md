@@ -21,6 +21,15 @@ Soy un **estudiante de ingenieria de software** apasionado por el desarrollo web
 - 📫 Correo: juandk1016@hotmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/juan-david-pe%C3%B1a-rold%C3%A1n-92b2961b5/)
 
+  ### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 Gracias por visitar mi perfil 🚀 ¡Estoy abierto a colaborar en proyectos interesantes!
 
 ---
